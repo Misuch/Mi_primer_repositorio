@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+body{
+    margin: 0px;
+    background-color: rgba(245, 202, 217, 0.884);
+}
+header{
+    background-color: rebeccapurple;
+    color: white;
+    margin: 0px;
+    height: 120px;
+
+}
+header h1{
+    float: unset ;
+    width: 250px;
+    margin: 0px;
+    font-size: 25px;
+    padding: 40px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.Resu{
+    font-size: 20px;
+    padding: 20px;
+}
+.Resu2{
+    font-size: 22px;
+    padding: 20px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: rebeccapurple;
+}
+.Resu3{
+    font-size: 20px;
+    padding: 20px;
+}
+.Resu3 b{
+    color: rebeccapurple;
+}
+.Resu4{
+    font-size: 22px;
+    padding: 20px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: rebeccapurple;
+}
+nav{
+    font-size: 20px;
+    padding: 20px;
+}
+footer{
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+}
+footer p{
+    width: 250px;
+    margin: 0px;
+    font-size: 10px;
+    padding: 15px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
